@@ -1,0 +1,10 @@
+# Ignore the data folder
+data/
+
+# Ignore saved model binaries
+models/*.pkl
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+.vscode/
